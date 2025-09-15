@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate SEO Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil512&label=Profile%20views&color=0e75b6&style=flat" alt="adil512" /> </p>
 
@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **JavaScript, Next JS, React JS**
 
-- 👯 I’m looking to collaborate on [LLMs.txt Generator](https://adilbalti.app/)
+- 👯 I’m currently working on [LLMs.txt Generator](https://adilbalti.app/)
 
-- 🤝 I’m looking for help with [Image to Text Converter](https://imgtotext.org/)
+- 🤝 I’m currently working on [Image to Text Converter](https://imgtotext.org/)
 
 - 👨‍💻 All of my projects are available at [https://adilbalti.vercel.app/](https://adilbalti.vercel.app/)
 
